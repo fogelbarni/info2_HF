@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+    border-style: double;
+    border-color: black;
+}
+
+td:nth-child(odd){
+    background-color: lightgreen;
+}
+
+
+#nev{
+    color: darkblue;
+}
+
+#hiba{
+    font-style: italic;
+    color: red;
+}
