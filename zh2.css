@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border-style: double;
+    border-color: black;
+}
+
+td:nth-child(odd){
+    background-color: lightblue;
+}
+
+
+a{
+    color: green;
+    margin-left: 55px;
+}
+
+#nev{
+    font-style: italic;
+}
